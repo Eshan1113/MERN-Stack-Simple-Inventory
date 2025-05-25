@@ -5,7 +5,13 @@
 
 A full-stack inventory management system built with the MERN stack (MongoDB, Express, React, Node.js) featuring CRUD operations and real-time updates.
 
-![Dashboard Screenshot](/screenshots/dashboard.png) <!-- Add your screenshot path -->
+
+├── backend/
+│   ├── models/       # MongoDB models
+│   ├── routes/       # API routes
+│   ├── server.js     # Backend entry point
+│   └── package.json
+└── README.md
 
 ## Features
 
